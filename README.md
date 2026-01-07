@@ -1,7 +1,7 @@
 # 3DGS to Minecraft Litematic Converter
 ### 3D 高斯泼溅转 Minecraft 投影工具 (For Apple ML-Sharp)
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Litematica-green)](https://www.curseforge.com/minecraft/mc-mods/litematica)
 [![Upstream](https://img.shields.io/badge/Based%20on-Apple%20ML--Sharp-black)](https://github.com/apple/ml-sharp)
 
